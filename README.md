@@ -12,13 +12,13 @@ I’m a passionate developer experienced in creating efficient, scalable, and ro
 - 🎯 Goal-Oriented Problem Solver  
 - 🤝 Team Player and Leader  
 - 🌱 Always learning new technologies and tools!  
-- 📫 How to reach me: *[your.email@example.com]*
+- 📫 How to reach me: *sanjanamahale93@gmail.com*
 
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://linkedin.com/in/your-linkedin-profile)  
-[![LeetCode](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png)](https://leetcode.com/your-leetcode-profile)  
+[![LinkedIn](https://www.linkedin.com/in/sanjana-mahale-b4a492254/)
+[![LeetCode](https://leetcode.com/u/sanjanamhl/)  
 
 ---
 

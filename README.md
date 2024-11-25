@@ -1,60 +1,50 @@
-# 👋 Hi there! I'm Sanjana Mahale
-
-I am a passionate *Full Stack Developer* specializing in building dynamic web applications with the *MERN stack*. 🚀
-
----
-
-## 🌟 About Me
-
-- 💻 I enjoy creating modern, responsive web applications.
-- 🌱 Currently exploring *Cloud Services* and *DevOps*.
-- 👯 Open to collaborating on exciting MERN stack projects.
-- 🧗‍♂ Outside of tech, I love trekking and photography.
-
----
-
-## 🛠 Skills
-
-### 🌐 *Frontend*
-- HTML5 | CSS3 | JavaScript (ES6+)
-- React.js | Redux | Material-UI | Bootstrap
-- Responsive Design and Cross-Browser Compatibility
-
-### 🔧 *Backend*
-- Node.js | Express.js
-- RESTful APIs | GraphQL
-
-### 📦 *Database*
-- MongoDB | Mongoose
-
-### 🛠 *Tools*
-- Git | GitHub | VS Code | Postman | Docker
-
----
-
-## 🚀 MERN Stack at a Glance
-
-### *Technologies I Use:*
+# Hi there! 👋  
+I am *Sanjana Mahale* 😊  
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB"/>
-  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" title="Express.js"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" title="React.js"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js"/>
+  <strong><blink>MERN Stack</blink></strong>
 </p>
 
 ---
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## 💡 About Me  
+I’m a passionate developer experienced in creating efficient, scalable, and robust solutions:  
+- 🎯 Goal-Oriented Problem Solver  
+- 🤝 Team Player and Leader  
+- 🌱 Always learning new technologies and tools!  
+- 📫 How to reach me: *[your.email@example.com]*
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect with Me  
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://linkedin.com/in/your-linkedin-profile)  
+[![LeetCode](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png)](https://leetcode.com/your-leetcode-profile)  
 
-- *LinkedIn*: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- *Portfolio*: [Your Portfolio Website](https://yourwebsite.com)
-- *Email*: youremail@example.com
+---
+
+## 🛠 Tools and Technologies  
+
+### Frontend
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" title="React.js" />
+</p>
+
+### Backend
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js" />
+  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" title="Express.js" />
+</p>
+
+### Database
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB" />
+</p>
+
+### Programming Languages
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++" />
+</p>
+
+---
+
+✨ *“Code, Learn, and Inspire”* ✨

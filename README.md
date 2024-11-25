@@ -31,14 +31,14 @@ I’m a passionate developer experienced in creating efficient, scalable, and ro
 ### 🛠 *Tools and Technologies*  
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB" /> MongoDB
-  <img src="https://img.icons8.com/ios-filled/50/000000/express-js.png" alt="Express.js" title="Express.js" /> Express.js
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js" /> Node.js
-  <img src="https://img.icons8.com/ultraviolet/40/000000/react.png" alt="React" title="React" /> React
-  <img src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png" alt="C++" title="C++" /> C++
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java" /> Java
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" title="VSCode" /> VSCode
-  <img src="https://img.icons8.com/ios-glyphs/50/26e07f/shield.png" alt="Authentication" title="Authentication" /> Authentication
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB" />
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-express-is-a-minimal-and-flexible-node-js-web-application-framework-logo-shadow-tal-revivo.png" alt="Express.js" title="Express.js" />
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js" />
+  <img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="React" title="React" />
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++" />
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java" />
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" title="VSCode" />
+  <img src="https://img.icons8.com/ios-glyphs/50/26e07f/shield.png" alt="Authentication" title="Authentication" />
 </p>
 
 

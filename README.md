@@ -1,7 +1,7 @@
 # Hi there! 👋  
 
 ## *I am Sanjana Mahale* 😊  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=35&color=F75C7E&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub!;MERN+stack+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=35&color=F75C7E&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub!;MERN+STACK+DEVELOPER)](https://git.io/typing-svg)
 
 ---
 
@@ -32,7 +32,7 @@ I’m a passionate developer experienced in creating efficient, scalable, and ro
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB" />
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-express-is-a-minimal-and-flexible-node-js-web-application-framework-logo-shadow-tal-revivo.png" alt="Express.js" title="Express.js" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" title="Express.js" style="height:48px; width:auto;" />
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js" />
   <img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="React" title="React" />
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++" />
